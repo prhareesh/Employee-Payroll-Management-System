@@ -1,0 +1,2 @@
+# Employee-Payroll-Management-System
+The Employee Payroll Management System is designed to simulate the monthly payroll operations of  an organization. It manages employee records, salary components, deductions, and payslip  generation. The system must validate employees, compute gross and net salaries based on defined  rules  enforce deduction policies.
